@@ -1,6 +1,4 @@
----
-sidebar_position: 1
----
+
 # 2024: A Year Surrounded by Light
 
 <div align="justify">

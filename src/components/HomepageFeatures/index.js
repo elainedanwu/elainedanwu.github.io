@@ -51,14 +51,29 @@ function Feature({Svg, title, description}) {
 
 export default function HomepageFeatures() {
   return (
-    <section className={styles.features}>
-      <div className="container">
-        <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))}
-        </div>
-      </div>
-    </section>
+      <img
+        src="/img/homepage.png"
+        alt="home pic"
+        style={{
+          width: '100vw',
+          height: 'auto',
+          display: 'block',
+        }}
+      />
   );
 }
+
+// export default function HomepageFeatures() {
+//   return (
+//     <section className={styles.features}>
+//       <div className="container">
+//         <div className="row">
+//           {FeatureList.map((props, idx) => (
+//             <Feature key={idx} {...props} />
+//           ))}
+//         </div>
+//       </div>
+//     </section>
+//   );
+// }
+
