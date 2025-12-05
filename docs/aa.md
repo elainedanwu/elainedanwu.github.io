@@ -1,4 +1,5 @@
 ---
+title: "2024: A Year Surrounded by Light"
 sidebar_position: 1
 ---
 # 2024: A Year Surrounded by Light
@@ -9,7 +10,7 @@ Welcome to my blog! Today I want to share some beautiful moments from this year 
 
 Sometimes the most beautiful light comes from the simplest sources. This year has taught me to appreciate the small moments that bring joy and warmth to our lives.
 
-![A beautiful moment captured in time](/docs/image1.jpg)
+<!-- ![A beautiful moment captured in time](/docs/image1.jpg) -->
 
 *The first image captures a serene moment that reminds us to pause and appreciate the beauty around us.*
 
@@ -17,7 +18,7 @@ Sometimes the most beautiful light comes from the simplest sources. This year ha
 
 As we journey through life, we often encounter crossroads that lead us to unexpected places. These moments of transition can be both challenging and exciting.
 
-![A new chapter begins](/docs/image2.png)
+<!-- ![A new chapter begins](/docs/image2.png) -->
 
 *The second image represents the journey ahead - full of possibilities and new adventures waiting to be discovered.*
 
